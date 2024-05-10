@@ -10,7 +10,16 @@
 
 01000100 01000011 00100000 01010011 01110101 01100011 01101011 01110011
 
-// Meta --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// 
+// Dear maintainer:
+// 
+// Once you are done trying to 'optimize' this routine,
+// and have realized what a terrible mistake that was,
+// please increment the following counter as a warning
+// to the next guy:
+// 
+// total_hours_wasted_here = 16
+//
 
 
  
